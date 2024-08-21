@@ -1,4 +1,6 @@
 import { hydrateRoot, createRoot } from 'react-dom/client'
+import '@fontsource-variable/libre-bodoni'
+import '@fontsource/cardo'
 
 import App from './App'
 /**

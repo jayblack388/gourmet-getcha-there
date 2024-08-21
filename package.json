@@ -20,5 +20,11 @@
   "prisma": {
     "seed": "yarn rw exec seed"
   },
-  "packageManager": "yarn@4.3.0"
+  "packageManager": "yarn@4.3.0",
+  "dependencies": {
+    "@fontsource-variable/libre-bodoni": "^5.0.15",
+    "@fontsource/cardo": "^5.0.14",
+    "react-spring": "^9.7.4",
+    "styled-components": "^6.1.12"
+  }
 }
