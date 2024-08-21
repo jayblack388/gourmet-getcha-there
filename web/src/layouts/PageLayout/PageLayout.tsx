@@ -1,3 +1,4 @@
+import Footer from 'src/components/Footer'
 import Navigation from 'src/components/Navigation'
 
 import { Content } from './PageLayout.styled'
@@ -11,6 +12,7 @@ const PageLayout = ({ children }: PageLayoutProps) => {
     <>
       <Navigation />
       <Content>{children}</Content>
+      <Footer />
     </>
   )
 }

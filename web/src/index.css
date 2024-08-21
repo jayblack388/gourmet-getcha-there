@@ -30,7 +30,11 @@ body,
 #redwood-app {
   height: 100%;
 }
-
+#redwood-app {
+  min-height: 100%;
+  display: grid;
+  grid-template-rows: auto 1fr auto;
+}
 body {
   font-family: 'Cardo', serif;
   margin: 0;
