@@ -7,8 +7,8 @@ const Footer = () => {
     <Container>
       <ul>
         <li>
-          <a href="tel:804-304-4712">
-            <Phone /> 804-304-4712
+          <a href="tel:804-307-4018">
+            <Phone /> 804-307-4018
           </a>
         </li>
         <li>
