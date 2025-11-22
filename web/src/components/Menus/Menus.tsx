@@ -13,7 +13,6 @@ const Menus = () => {
           Breakfast
           <ul>
             <li>Coffee</li>
-            <li>Mimosas</li>
             <li>Pastries</li>
             <li>Breakfast Sandwiches</li>
           </ul>
@@ -21,11 +20,11 @@ const Menus = () => {
         <li>
           All Day
           <ul>
-            <li>Beer/Wine</li>
             <li>Chicken Salad</li>
-            <li>Potato Salad</li>
+            <li>Ham Biscuits</li>
             <li>Deviled Eggs</li>
             <li>Cookies</li>
+            <li>Fresh Fruit</li>
           </ul>
         </li>
         <li>Special Requests Welcome!</li>
